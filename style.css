@@ -11,7 +11,7 @@ h2{
 p{
     color: dimgrey;
 }
-.name-highlight{
+.orange-highlight{
     color: orange;
 }
 .half-width {
@@ -19,6 +19,9 @@ p{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+}
+.text-center{
+    text-align:center;
 }
 .half-width img{
     width: 100%;
