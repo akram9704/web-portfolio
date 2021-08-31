@@ -9,19 +9,16 @@ h2{
     font-size: 40px;
 }
 p{
-    color: dimgrey;
+    color: dimgray;
 }
 .orange-highlight{
     color: orange;
 }
 .half-width {
-    width: 40%;
+    width: 38%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
-}
-.text-center{
-    text-align: center;
 }
 .half-width img{
     width: 100%;
