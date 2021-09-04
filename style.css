@@ -55,6 +55,7 @@ section{
     background-repeat: no-repeat;
     background-position: left;
     clear: both;
+    width: 100%;
 }
 #full-stack{
     border-left: 7px solid;
